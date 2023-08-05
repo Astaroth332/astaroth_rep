@@ -1,0 +1,377 @@
+[33mcommit 93a1d82fd6aa88f41ed431c0b294fcaff2255f13[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kemverly Canete <kemverlycanete9@gmail.com>
+Date:   Sat Aug 5 11:24:16 2023 +0800
+
+    I added a LOGIN Form
+
+[33mcommit 7b1ec7d09795db558ffe5c07afb33367704b79db[m
+Merge: 62f7eef c05a83a
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Sat Aug 5 10:21:51 2023 +0800
+
+    Merge pull request #35 from r0nnie-20/Charlou
+    
+    Charlou
+
+[33mcommit c05a83a993a19cc24f25c79df722c29d82893aa3[m
+Author: Charlou Ybarley <96220061+Codesloth15@users.noreply.github.com>
+Date:   Fri Aug 4 21:46:59 2023 +0800
+
+    Update assignment2.css
+    
+    added contact form and style it
+
+[33mcommit 9ff567ce315680141d93662105a8717bda14048a[m
+Author: Charlou Ybarley <96220061+Codesloth15@users.noreply.github.com>
+Date:   Fri Aug 4 21:45:43 2023 +0800
+
+    Update assignment2.html
+
+[33mcommit 62f7eefb1172ed39caf2bebacdf63a15340ad8ef[m
+Author: Astaroth332 <123735361+Astaroth332@users.noreply.github.com>
+Date:   Fri Aug 4 19:53:39 2023 +0800
+
+    Delete firstForm
+
+[33mcommit ded4a255e750da634f79a48b17b6e37b37f7b577[m
+Merge: 9e384fb 12ec935
+Author: Ranier Arcega <rdavee0412@gmail.com>
+Date:   Fri Aug 4 19:13:35 2023 +0800
+
+    Merge branch 'master' of https://github.com/r0nnie-20/IcreatechsStudyHub
+
+[33mcommit 9e384fb190bb94728530e1321d7c3bccaa012d6c[m
+Author: Ranier Arcega <rdavee0412@gmail.com>
+Date:   Fri Aug 4 19:07:13 2023 +0800
+
+    done styling the survey form
+
+[33mcommit 12ec935684fae3ff13548a494422c6a29756b508[m
+Merge: 93557af 33fec35
+Author: Astaroth332 <123735361+Astaroth332@users.noreply.github.com>
+Date:   Fri Aug 4 18:55:23 2023 +0800
+
+    Merge pull request #33 from r0nnie-20/asta
+    
+    Create firstForm
+
+[33mcommit 33fec35e34e36592d6b6a9de54f1b8b3c1867862[m
+Author: Astaroth332 <123735361+Astaroth332@users.noreply.github.com>
+Date:   Fri Aug 4 18:54:54 2023 +0800
+
+    Create firstForm
+
+[33mcommit 93557affe3dd80ecdcd2ba6e890a2be235ddcb7f[m
+Merge: 46bf522 fdd9187
+Author: sanchez-alyssa <ww7aly@gmail.com>
+Date:   Fri Aug 4 13:51:18 2023 +0800
+
+    Merge branch 'master' of github.com:r0nnie-20/IcreatechsStudyHub
+
+[33mcommit 46bf522b20e19116c115eb802ff427fb01d61823[m
+Author: sanchez-alyssa <ww7aly@gmail.com>
+Date:   Fri Aug 4 13:50:35 2023 +0800
+
+    changed assignment2 style  to style file
+
+[33mcommit fdd9187798bf0f1182a8d8114c8a0c45a4521665[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Fri Aug 4 13:20:56 2023 +0800
+
+    remove .gitignore
+
+[33mcommit 68f5dde8b628bdee2c29963e92e0b2e1cdae579e[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Fri Aug 4 13:19:02 2023 +0800
+
+    add gitignore
+
+[33mcommit 894306601e150714e0f24cec3832578008041c5f[m
+Merge: 50f836f d533e35
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Fri Aug 4 13:07:53 2023 +0800
+
+    Merge pull request #31 from r0nnie-20/assignment2
+    
+    added basic style to anchor link
+
+[33mcommit d533e35f4c5303f11458b226a37ff5ec52e00bb9[m
+Merge: 57c15f3 50f836f
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Fri Aug 4 13:07:38 2023 +0800
+
+    Merge branch 'master' into assignment2
+
+[33mcommit 57c15f3eb37b81dacb67b271a2e0ddf599ead46f[m
+Author: sanchez-alyssa <ww7aly@gmail.com>
+Date:   Fri Aug 4 12:55:11 2023 +0800
+
+    added basic style to anchor link
+
+[33mcommit 50f836f4b5aea3a74755d0a73af6e4acd9a4d0af[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Fri Aug 4 12:52:07 2023 +0800
+
+    add survey form
+
+[33mcommit b924f59c86739da177e915bd8f8e54cac7b3ca05[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Fri Aug 4 12:45:47 2023 +0800
+
+    add survey form
+
+[33mcommit e2dcdeddb9952210345d29c1c27bb554d65d4061[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Fri Aug 4 08:09:46 2023 +0800
+
+    Initial commit
+
+[33mcommit f1a9dc473759614ae723d7084498a30684085abb[m
+Merge: 9863f2e 6474da1
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Fri Aug 4 07:36:47 2023 +0800
+
+    Merge pull request #25 from r0nnie-20/transfer-internal-css-to-external
+    
+    Transfer internal css to external
+
+[33mcommit 6474da1d0d555fea5f12eb98866d9f97e5264302[m
+Author: Charlou Ybarley <96220061+Codesloth15@users.noreply.github.com>
+Date:   Thu Aug 3 20:40:15 2023 +0800
+
+    Update index.html
+
+[33mcommit 36adc4467e685cdffb44d5e638282a788deaf009[m
+Author: Charlou Ybarley <96220061+Codesloth15@users.noreply.github.com>
+Date:   Thu Aug 3 20:39:59 2023 +0800
+
+    Update style.css
+
+[33mcommit 9863f2edc57220b92640697750cd69d612b55b63[m
+Merge: ba32e2a 693b7c0
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Thu Aug 3 19:14:57 2023 +0800
+
+    Merge pull request #24 from r0nnie-20/2-create-an-ol-ordered-list-element-with-at-least-3-items-li-items-should-contain-different-programming-languages
+    
+    Added ordered lists in index.html
+
+[33mcommit 693b7c0f1a4348077a65df9724ce777c3eb6ad0c[m
+Author: lawrencecebrero <lawrencecebreroshs@gmail.com>
+Date:   Thu Aug 3 18:38:14 2023 +0800
+
+    Update index.html
+
+[33mcommit ba32e2a073d196bd0a719448a8ba95627718b4ea[m
+Merge: 2ee390b 5fa8fd1
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Thu Aug 3 17:34:49 2023 +0800
+
+    Merge pull request #23 from r0nnie-20/Formatting
+    
+    added a strong, em, and u tags in the p tag. also a em tas in li tag
+
+[33mcommit 5fa8fd110484dd480a32ef0013d99acfc5143cd3[m
+Author: Mark Benedict <141092618+MBAbalos@users.noreply.github.com>
+Date:   Thu Aug 3 15:15:56 2023 +0800
+
+    added a strong, em, and u tags in the p tag. also a em tas in li tag
+
+[33mcommit 2ee390b1c0a20a7f24f48cf6707936c35242da0b[m
+Merge: c97f4a9 b7688f9
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Thu Aug 3 13:49:39 2023 +0800
+
+    Merge pull request #21 from r0nnie-20/alyssa
+    
+    Alyssa
+
+[33mcommit b7688f91dda4a71545d10b7404d150f4531bbd11[m
+Author: sanchez-alyssa <ww7aly@gmail.com>
+Date:   Thu Aug 3 13:11:25 2023 +0800
+
+    added anchor link
+
+[33mcommit f69937ae0697394abc149b56c6984e8daf0894c3[m
+Author: sanchez-alyssa <ww7aly@gmail.com>
+Date:   Thu Aug 3 13:00:19 2023 +0800
+
+    add link for a cool website
+
+[33mcommit c97f4a9b4595f41b2a5cec758e7b82ab42ad8b0b[m
+Merge: 77f611d 6953e6b
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Thu Aug 3 10:49:47 2023 +0800
+
+    Merge pull request #19 from r0nnie-20/css
+    
+    Css
+
+[33mcommit 77f611d3c19cd68ea397652e1b9d9ba2b4c790ed[m
+Merge: 1475e3a c5fdc70
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Thu Aug 3 10:48:24 2023 +0800
+
+    Merge pull request #18 from r0nnie-20/activity
+    
+    Update index.html I added some table with 4 table rows with 3 column
+
+[33mcommit 1475e3a26214c346feb9c3bd9681a381ee8e1371[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Thu Aug 3 10:39:45 2023 +0800
+
+    reset to default
+
+[33mcommit c5fdc705c99c1f131bbe18482a1179258024e7ef[m
+Author: Charlou Ybarley <96220061+Codesloth15@users.noreply.github.com>
+Date:   Thu Aug 3 06:18:47 2023 +0800
+
+    Update index.html I added some table with 4 table rows with 3 column
+    
+    Just to make it nice I also style it using CSS.
+
+[33mcommit 6953e6bb966abb88256b959321f7faf5a42c28ba[m
+Author: Dalrymple <129179042+DalRamos@users.noreply.github.com>
+Date:   Wed Aug 2 21:59:54 2023 +0800
+
+    Changed the fonts,backround, color etc
+
+[33mcommit dea05982cb9d53453febe5b85c4c30aa4863003f[m
+Author: Dalrymple <129179042+DalRamos@users.noreply.github.com>
+Date:   Wed Aug 2 21:58:13 2023 +0800
+
+    added div to the image for easier css
+
+[33mcommit cba9d737d404523eb41bb8239323a6758e7311a8[m
+Merge: 94ea6ff 5a1dc1f
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Wed Aug 2 15:40:29 2023 +0800
+
+    Merge pull request #15 from r0nnie-20/issue/ul
+    
+    Playing Basketball
+
+[33mcommit 94ea6ff2cba42965f7f4a465ddf606830e352c24[m
+Author: Bernard Raine Porlas <92135674+H4DES@users.noreply.github.com>
+Date:   Wed Aug 2 13:32:47 2023 +0800
+
+    Add <H1> and <P> elements in the <body>
+
+[33mcommit 5a1dc1f70d5037d17fa75155049f7203e021e8dd[m
+Author: Ranier Dave Arcega <rdavee0412@gmail.com>
+Date:   Wed Aug 2 13:02:52 2023 +0800
+
+    Playing Basketball
+
+[33mcommit 0000a890ea5954f476d49d74032786f224d1aee5[m
+Merge: 6c10950 4342d78
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Wed Aug 2 10:05:00 2023 +0800
+
+    Merge pull request #13 from r0nnie-20/feature
+    
+    Feature
+
+[33mcommit 4342d7879cb8c867cf62db2359025ef3eba9e1f2[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Wed Aug 2 10:02:38 2023 +0800
+
+    add image
+
+[33mcommit bbdcf05978b80b0e93bde4b43f3a18924b40dd8f[m
+Merge: 7bc9132 6c10950
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Wed Aug 2 09:53:19 2023 +0800
+
+    Merge branch 'master' of https://github.com/r0nnie-20/IcreatechsStudyHub
+
+[33mcommit 7bc9132206a9994da8a18d94d63c6a4681f025b7[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Wed Aug 2 09:53:10 2023 +0800
+
+    reset to default code
+
+[33mcommit 6c10950e75d1a44db6e19b4fabc87b84978f1b0f[m
+Author: Ranier <141089345+Rdavee@users.noreply.github.com>
+Date:   Tue Aug 1 23:06:11 2023 +0800
+
+    Update index.html
+
+[33mcommit adcdd27e92c69315e5d1cf529408fd4d26571bfd[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Tue Aug 1 22:06:29 2023 +0800
+
+    padding removed, added h2 element
+
+[33mcommit 518424e23dedd5c9303b419b9122c60304317792[m
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Tue Aug 1 21:57:26 2023 +0800
+
+    nag add ako ng paragrapg sa ilalim ng h2 element
+
+[33mcommit fe3359d12b30b2e302e4def768a6ce7d2b831381[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Tue Aug 1 21:52:24 2023 +0800
+
+    I added h2 element
+
+[33mcommit 1c29be11069385d26d2ae3759ecb14201070fae1[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Tue Aug 1 20:11:53 2023 +0800
+
+    added style.css
+
+[33mcommit 9a2946d6b50ba81948e73237edc14dc1a445790f[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Tue Aug 1 18:28:32 2023 +0800
+
+    Coding Outline Added
+
+[33mcommit 53872f2b9da077bac6a3655fd178c0ecbce5f292[m
+Author: Ronnie Cutamora <r0nniecutamora@yahoo.com>
+Date:   Tue Aug 1 12:55:04 2023 +0800
+
+    Initial commit
+
+[33mcommit 2822d6932199e29709ce87b952e45ebac2d800d2[m
+Author: Ronnie <ronniesenpai@MacBook-Pro.local>
+Date:   Tue Aug 1 10:20:14 2023 +0800
+
+    Initial commit
+
+[33mcommit 839519464d0d8c9798325ce807ad0e64043ce47b[m
+Author: Ronnie <ronniesenpai@MacBook-Pro.local>
+Date:   Tue Aug 1 10:07:08 2023 +0800
+
+    Initial commit
+
+[33mcommit 82fba24ca4c2382c850f03bd61db7cee2902f219[m
+Merge: 4fc2c26 77dda3e
+Author: Ronnie <ronniesenpai@MacBook-Pro.local>
+Date:   Tue Aug 1 10:04:48 2023 +0800
+
+    Merge branch 'master' of https://github.com/r0nnie-20/IcreatechsStudyHub
+
+[33mcommit 4fc2c26a91d99eeb141b82638d60bceb92cd3527[m
+Author: Ronnie <ronniesenpai@MacBook-Pro.local>
+Date:   Tue Aug 1 09:55:37 2023 +0800
+
+    Initial commit
+
+[33mcommit 2007c27d54ff18a5599d210e60fdeb7842352f23[m
+Author: Ronnie <ronniesenpai@MacBook-Pro.local>
+Date:   Tue Aug 1 09:40:35 2023 +0800
+
+    initial commit
+
+[33mcommit 77dda3e35de66a3f861e46d41331e5c20c74fa42[m
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Mon Jul 31 17:09:21 2023 +0800
+
+    Update README.md
+
+[33mcommit 7073837f799042152954adc3828e2fa812f7c0ad[m
+Author: Ronnie Cutamora <109708984+r0nnie-20@users.noreply.github.com>
+Date:   Mon Jul 31 17:00:32 2023 +0800
+
+    Initial commit
